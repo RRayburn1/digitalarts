@@ -2,16 +2,17 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
 }
 .homePage {
-	background: #222222;
+	background: #CFF2E4;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #85F0C5;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #68BD9B;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -37,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #60706A;
 	margin: 0px;
 	float: left;
 	width: 100%;
